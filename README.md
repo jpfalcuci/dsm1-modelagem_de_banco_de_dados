@@ -1,3 +1,7 @@
 # Modelagem de Banco de Dados
 
-Repositório dos arquivos da matéria de Modelagem de Banco de Dados do 1º semestre do curso de DSM (Desenvolvimento de Software Multiplataforma) da Fatec (Franca/SP)
+Curso: Desenvolvimento de Software Multiplataforma (Fatec - Franca/SP)
+
+Disciplina: Modelagem de Banco de Dados
+
+Período: 1º semestre (2022/2)
